@@ -1,0 +1,5 @@
+select * from  [dbo].[CUSTOMERS]
+select * from [dbo].[EMP]
+select * from [dbo].[PRODUCTS]
+select * from [dbo].[SPORTS]
+select * from [dbo].[STUDENTS]
