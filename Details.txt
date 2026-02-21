@@ -1,0 +1,56 @@
+1 Creat table
+     a. Naming rules
+     b. datatypes
+     c. Constaints
+	primary key, defult, check, null, ..
+2. how to verify table structures
+     sys.tables
+     sys.columns
+     sys.indexes
+     sys.constrints
+3. Indexes creation and verification 
+    1. types of indexes
+    2. index types
+    3. how to force index
+
+4. How to add new columns the table
+   1. Add new column 
+      a. end of the table
+      b. begining of the table
+      c. middle of the table
+
+5. How to alter table columns
+    1. size 
+    2. datatype
+    3. column rename 
+      
+6. How to drop the table columns
+
+7. How to copy table data from one table to another table
+
+8. How to drop table constaints 
+
+9. How to drop table indexes
+
+10. How to rebuild/reindex indexs 
+
+-------------------------------------------------
+Table naming rules
+column naming rules 
+Index naming rules
+Constrint naming rules
+
+
+select (query)
+
+insert 
+ 
+delete
+
+update
+
+TSQL --> Microsoft programming, extension of SQL 
+
+
+  
+   
